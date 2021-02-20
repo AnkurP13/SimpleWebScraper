@@ -1,4 +1,4 @@
-# SimpleWebScraper #Acceptance Criteria 
+# SimpleWebScraper #Acceptance Criteria #Building applications in C# #Udemy 
 This Software will do the following:
   - Access and read craigslist listed items 
   - Process the users input which will be the 
